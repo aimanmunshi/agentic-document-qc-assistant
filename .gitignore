@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+*.egg-info/
+.vscode/
+.idea/
+output/qc_findings/*.json
+!output/qc_findings/.gitkeep

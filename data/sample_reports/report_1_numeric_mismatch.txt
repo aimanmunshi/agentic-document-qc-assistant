@@ -1,0 +1,48 @@
+MARKET ACCESS SUMMARY REPORT
+Client: Northbridge Pharma Solutions
+Prepared by: Analytics & Insights Team
+Date: 03/14/2025
+
+1. EXECUTIVE SUMMARY
+This report summarizes reimbursement performance for the Q1 2025 product
+launch across the three priority regions: Northeast, Midwest, and West Coast.
+Overall uptake has tracked slightly ahead of the base-case forecast, driven
+primarily by favorable formulary placement in the Northeast region.
+
+2. METHODOLOGY
+Data was aggregated from payer claims feeds and reconciled against the
+client's internal CRM records on a monthly basis. Figures below reflect
+confirmed, adjudicated claims only; pending claims are excluded.
+
+3. REGIONAL PERFORMANCE
+
+The table below shows confirmed unit sales by region for the reporting
+period, along with associated net revenue.
+
+Region          Units Sold      Net Revenue (USD)
+Northeast       12,450          1,867,500
+Midwest         8,900           1,157,000
+West Coast      6,320           948,000
+
+Total confirmed units across all regions for the period: 27,670
+Total net revenue for the period: $4,205,500
+
+3.1 Commentary
+Northeast continues to outperform relative to the original launch model,
+while Midwest tracked roughly in line with expectations. West Coast lagged
+slightly behind forecast, largely attributable to a delayed formulary
+decision by a key regional payer that was only resolved in the final month
+of the quarter.
+
+4. RISK FACTORS
+- Continued formulary volatility in the West Coast region
+- Potential rebate renegotiation with the largest Midwest payer in Q2
+- Upcoming generic entrant expected in late 2025, timeline still uncertain
+
+5. RECOMMENDATIONS
+We recommend the client prioritize payer engagement resources toward the
+West Coast region ahead of the next contracting cycle, and continue
+monitoring the Midwest rebate discussion closely given its outsized
+contribution to net revenue.
+
+END OF REPORT
