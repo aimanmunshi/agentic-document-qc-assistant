@@ -1,0 +1,22 @@
+{
+  "document_name": "report_2_formatting_issues.txt",
+  "approach": "non_agentic",
+  "findings": [
+    {
+      "category": "date_format_inconsistency",
+      "severity": "medium",
+      "description": "[SIMULATED] The document mixes several date formats (e.g. 'May 12, 2025', '1/2/2025', '2025-03-31') rather than using one consistent style throughout.",
+      "evidence": null,
+      "source": "llm"
+    },
+    {
+      "category": "terminology_inconsistency",
+      "severity": "low",
+      "description": "[SIMULATED] The document refers to the same period as both 'Q1' and 'Quarter 1' in different places.",
+      "evidence": null,
+      "source": "llm"
+    }
+  ],
+  "summary": "[SIMULATED] A careful read surfaces the mixed date formatting and inconsistent 'Q1'/'Quarter 1' phrasing in general terms, though without exhaustively listing every instance of each — a single pass tends to sample a few examples rather than mechanically scanning the entire document the way a dedicated checker does.",
+  "tools_used": []
+}

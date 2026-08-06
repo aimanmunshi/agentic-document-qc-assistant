@@ -1,0 +1,19 @@
+{
+  "document_name": "report_1_numeric_mismatch.txt",
+  "approach": "agentic",
+  "findings": [
+    {
+      "category": "numeric_mismatch",
+      "severity": "high",
+      "description": "Stated total 4,205,500.00 does not match the computed sum of its line items (3,972,500.00) — discrepancy 233,000.00.",
+      "evidence": "Total net revenue for the period: $4,205,500",
+      "source": "number_verifier"
+    }
+  ],
+  "summary": "[SIMULATED tool-selection] 1 issue(s) found via 3 tool(s) called: number_verifier, formatting_checker, checklist_validator.",
+  "tools_used": [
+    "number_verifier",
+    "formatting_checker",
+    "checklist_validator"
+  ]
+}

@@ -8,4 +8,5 @@ venv/
 .vscode/
 .idea/
 output/qc_findings/*.json
+!output/qc_findings/*_SIMULATED.json
 !output/qc_findings/.gitkeep

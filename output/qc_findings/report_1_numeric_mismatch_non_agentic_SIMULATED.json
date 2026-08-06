@@ -1,0 +1,7 @@
+{
+  "document_name": "report_1_numeric_mismatch.txt",
+  "approach": "non_agentic",
+  "findings": [],
+  "summary": "[SIMULATED] Document appears well-organized with a clear regional breakdown, consistent formatting, and no missing sections. No issues flagged. (A single fluent read does not reliably re-add three large comma-formatted figures against a stated total — the well-documented gap this project's dedicated number_verifier tool closes; see docs/comparison.md.)",
+  "tools_used": []
+}

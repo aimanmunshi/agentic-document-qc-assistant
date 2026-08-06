@@ -1,0 +1,25 @@
+{
+  "document_name": "report_2_formatting_issues.txt",
+  "approach": "agentic",
+  "findings": [
+    {
+      "category": "date_format_inconsistency",
+      "severity": "medium",
+      "description": "Document mixes 4 different date formats: ISO (YYYY-MM-DD): 2025-03-31; Slash-numeric (M/D/Y or D/M/Y): 01/02/2025, 07/15/2025, 1/2/2025; Month Day, Year: August 3, 2025, March 31, 2025, May 12, 2025; Day Month Year: 15 July 2025",
+      "evidence": "ISO (YYYY-MM-DD): 2025-03-31; Slash-numeric (M/D/Y or D/M/Y): 01/02/2025, 07/15/2025, 1/2/2025; Month Day, Year: August 3, 2025, March 31, 2025, May 12, 2025; Day Month Year: 15 July 2025",
+      "source": "formatting_checker"
+    },
+    {
+      "category": "terminology_inconsistency",
+      "severity": "low",
+      "description": "Document uses inconsistent terminology for the same concept: 'Q1', 'Quarter 1' all appear, referring to the same period.",
+      "evidence": "Q1, Quarter 1",
+      "source": "formatting_checker"
+    }
+  ],
+  "summary": "[SIMULATED tool-selection] 2 issue(s) found via 2 tool(s) called: formatting_checker, checklist_validator.",
+  "tools_used": [
+    "formatting_checker",
+    "checklist_validator"
+  ]
+}

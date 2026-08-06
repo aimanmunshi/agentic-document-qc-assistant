@@ -1,0 +1,15 @@
+{
+  "document_name": "report_3_missing_sections.txt",
+  "approach": "non_agentic",
+  "findings": [
+    {
+      "category": "missing_section",
+      "severity": "high",
+      "description": "[SIMULATED] The document does not include a Methodology section explaining how the payer landscape data was compiled, nor a Limitations section — both of which a reader would expect from a report making claims like 'twelve currently indicate a favorable predisposition'.",
+      "evidence": null,
+      "source": "llm"
+    }
+  ],
+  "summary": "[SIMULATED] A single read-through reasonably catches the missing Methodology/Limitations section, since a structural gap like a whole absent section is the kind of thing a careful reader notices by skimming the document's outline.",
+  "tools_used": []
+}

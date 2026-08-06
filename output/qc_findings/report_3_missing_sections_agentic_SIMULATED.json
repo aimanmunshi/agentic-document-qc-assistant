@@ -1,0 +1,25 @@
+{
+  "document_name": "report_3_missing_sections.txt",
+  "approach": "agentic",
+  "findings": [
+    {
+      "category": "missing_section",
+      "severity": "high",
+      "description": "Document is missing a required section: 'methodology' (checklist profile: 'market_access_summary').",
+      "evidence": null,
+      "source": "checklist_validator"
+    },
+    {
+      "category": "missing_section",
+      "severity": "high",
+      "description": "Document is missing a required section: 'limitations / risk factors' (checklist profile: 'market_access_summary').",
+      "evidence": null,
+      "source": "checklist_validator"
+    }
+  ],
+  "summary": "[SIMULATED tool-selection] 2 issue(s) found via 2 tool(s) called: formatting_checker, checklist_validator.",
+  "tools_used": [
+    "formatting_checker",
+    "checklist_validator"
+  ]
+}
